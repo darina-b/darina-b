@@ -1,4 +1,4 @@
-Well hellooooo there 👋 I'm Darina, nice to meet you too!😁
+Well hellooooo there 👋 I'm Darina, nice to meet you too!
 I'm a fresh Data Engineer with developed Data Analytics skills. 
 Passionate about Data and continuous self-development and currently looking for projects where I can help.
 
