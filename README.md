@@ -1,14 +1,14 @@
-Well hellooooo there 👋 I'm Darina, nice to meet you too!
-I'm a fresh Data Engineer with developed Data Analytics skills. 
-Passionate about Data and continuous self-development and currently looking for projects where I can help.
+![DATA_SCREEN_narrowest](https://github.com/user-attachments/assets/3737f97f-73fa-47e0-b196-6daf96890da7)
+# Hi, I'm Darina B. Welcome to my repos!😶‍🌫️
+## 🤖 I'm a fresh **Data Engineer** with developed skills in **Data Analytics**.
 
-I stand out due to this fortunate combo: 
-+ inborn analytical thinking
-+ efficiency as a lifestyle
-+ excellent communication
+Passionate about Data and continuous self-development, I'm currently looking for projects to help *(traineeship/ junior positions)*.
+My trademarks: 
+- [x] **Analytical mind**                                 
+- [x] **Efficiency**
+- [x] **Excellent communication**
   
-I thrive on challenges and believe that everything is 'figureoutable'. So, the trickier the task, the more fun for me.
-
+## 🤖 I thrive on challenges and believe that everything is 'figureoutable'.
 My current set of skills includes (but is not limited to!😎):
 - Python (advanced, incl. pandas, numpy, matplotlib etc.)
 - SQL
@@ -16,13 +16,16 @@ My current set of skills includes (but is not limited to!😎):
 - PostgreSQL
 - Microsoft Excel
 - Git
-- PostgreSQL
 - IBM Db2
 - Jupyter Notebook
 - Azure services
-- working on it every day...stay tuned😁
 
-*Fun fact: I'm a career changer, after 15 years in Architecture I realized that Data is much more fun for me (alas! it did not exist in my teens).
-Then, I started learning like crazy..and am absolutely enjoying it till today! 
-So, if your project is related to real estate or urban planning, we have more in common than you'd expect!
-![ColeenNolanWonderWomanGIF](https://github.com/user-attachments/assets/f4a8a7ea-e617-44ad-ad1a-c0ddcc77f813)
+***Fun fact:** I have a lot of experience in Architecture, Building industry, and Real estate.
+If your project is related to these fields, I'll bring extra expertise and you'll save a lot of money
+
+🔗 [Power BI:](https://www.example.com)
+
+🔗 [Python, Strimlit:](https://www.example.com)
+
+🔗[title](https://www.example.com)
+## 🤖 Happy to connect. Drop me a line on LinkedIn!
