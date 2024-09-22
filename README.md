@@ -9,8 +9,8 @@ My trademarks:
 - [x] **Excellent communication (Eng/Fi)**
   
 ## 🤖 I thrive on challenges and believe that everything is 'figureoutable'.
-My current **skill set** includes (but is not limited to!😎):
-- Python (advanced, incl. Pandas, Numpy, Matplotlib etc.)
+My current **skill set** includes (but is not limited to!):
+- Python (advanced, incl. Pandas, Numpy, Matplotlib, Seaborn etc.)
 - SQL
 - Power BI
 - PostgreSQL
@@ -20,8 +20,8 @@ My current **skill set** includes (but is not limited to!😎):
 - Jupyter Notebook
 - Azure services
 
-**Bonus:** I have many years of experience in Architecture, Building industry, and Real estate.
-If your project is related to these fields, I'll bring extra expertise and you'll save a lot
+**Bonus:** I have many years of experience in Architecture, Construction industry, and Real estate.
+If your project is related to these fields, I'll bring extra expertise and you'll save a lot by having me in your team
 
 🔗 [Power BI:](https://www.example.com)
 
