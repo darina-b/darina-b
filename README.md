@@ -5,7 +5,7 @@
 Passionate about Data and continuous self-development, I'm currently looking for projects to help *(traineeship/ junior positions)*.
 My trademarks: 
 - [x] **Analytical mind**                                 
-- [x] **Efficiency**
+- [x] **Efficiency and clarity**
 - [x] **Excellent communication (Eng/Fi)**
   
 ## 🤖 I thrive on challenges and believe that everything is 'figureoutable'.
