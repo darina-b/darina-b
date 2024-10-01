@@ -22,9 +22,9 @@ Passionate about Data and continuous self-development, I'm currently looking for
 
 🔗 Project [Logistics dashboard (EDA): Power BI](https://github.com/darina-b/porto-PowerBI/blob/6d18fd16c19dc9282fe6b4c768969001630d587f/Logistics_DASHBOARD.pbix)
 
-🔗 Project [Sales dashboard (EDA): Power BI](https://github.com/darina-b/porto-PowerBI/blob/6d18fd16c19dc9282fe6b4c768969001630d587f/Sales_DASHBOARD.pbix)
+🔗 Project [Sales dashboard (EDA): Power BI](https://github.com/darina-b/porto-PowerBI/blob/6d18fd16c19dc9282fe6b4c768969001630d587f/README.md)
 
-🔗 Project [EmoDiary: Python, Pandas, Strimlit](https://github.com/darina-b/porto-EmoDiary/blob/f284cfcf2c78c615fc359fc9184c648706c938b0/emo_diary.py)
+🔗 Project [EmoDiary: Python, Pandas, Strimlit](https://github.com/darina-b/porto-EmoDiary/blob/f284cfcf2c78c615fc359fc9184c648706c938b0/README.md)
 
-🔗 Project [CoinEscape: Pygame](https://github.com/darina-b/porto-CoinEscape/blob/a2155f6da29776774797c85aa10f24e1c97007ca/coin_escape.py)
+🔗 Project [CoinEscape: Pygame](https://github.com/darina-b/porto-CoinEscape/blob/a2155f6da29776774797c85aa10f24e1c97007ca/README.md)
 ## 🤖 Happy to connect. Drop me a line on [LinkedIn](https://www.linkedin.com/in/darina-bunak-data2024engineer/)
