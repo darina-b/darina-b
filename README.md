@@ -31,4 +31,4 @@ If your project is related to these topics, **you'll save a lot by having me in 
 
 🔗 Python, Pygame: [CoinEscape](https://github.com/darina-b/porto-CoinEscape/blob/a2155f6da29776774797c85aa10f24e1c97007ca/README.md)
 ##
-### Happy to connect. Drop me a line on [My LinkedIn Page](https://www.linkedin.com/in/darina-bunak-data2024engineer/)
+### Happy to connect. Drop me a line on [My LinkedIn Page](https://www.linkedin.com/in/darina-bunak-data-specialist)
