@@ -1,9 +1,9 @@
 ![DATA_SCREEN_narrowest](https://github.com/user-attachments/assets/3737f97f-73fa-47e0-b196-6daf96890da7)
 ## Hi, I'm Darina B. 😎 Welcome to my repos!
 
-###  I'm a fresh **Data Engineer** with developed skills in **Data Analytics**.
+###  I'm a Data Specialist with developed skills in Data Engineering, Business Intelligence, and Analytics.
 
-Passionate about Data and continuous self-development, I'm currently looking for projects to help on (***traineeship/ junior positions***).
+Passionate about **Data** and **continuous self-development**, I'm currently looking for projects to help on (***traineeship/ junior positions***).
 
 My trademarks:
 - [x] **Analytical mind**                                 
@@ -19,7 +19,8 @@ My trademarks:
 - [x] **Technologies:** Azure Data Factory, Azure Synapse Analytics, Git, Jupyter, Excel, Streamlit
 - [x] **Industry Knowledge:** Object-Oriented Programming, Database administration, API integration
 
-**Bonus:** Expert knowledge of **Architectural design**, **Construction** and **Real estate** fields. If your project is related to these topics, you'll save a lot by having me in your team.
+**Bonus:** Expert knowledge of **Construction**, **Architectural design**, and **Real estate** fields.  
+If your project is related to these topics, **you'll save a lot by having me in your team**.
 ## 
 ### A few projects:
 🔗 PowerBI: [Delivery Operatons in Botswana and South Africa, 2021-2022 (EDA)](https://github.com/darina-b/porto-PowerBI/blob/6d18fd16c19dc9282fe6b4c768969001630d587f/Logistics_DASHBOARD.pbix)
