@@ -24,7 +24,7 @@ If your project is related to these topics, **you'll save a lot by having me in 
 ## 
 ### A few projects:
 
-🔗 PowerBI: [Car Sales in Botswana and South Africa, 2022 (EDA)](https://github.com/darina-b/porto-sales/edit/main/README.md)
+🔗 PowerBI: [Car Sales in Botswana and South Africa, 2022 (EDA)](https://github.com/darina-b/porto-sales/tree/main?tab=readme-ov-file#readme)
 
 🔗 Python (Object-based, Pandas, Numpy, Sentiment analysis): [EmoDiary](https://github.com/darina-b/porto-EmoDiary/blob/f284cfcf2c78c615fc359fc9184c648706c938b0/README.md)
 
