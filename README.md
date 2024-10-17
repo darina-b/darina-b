@@ -3,7 +3,7 @@
 
 ###  I'm a Data Specialist with developed skills in Data Engineering, Business Intelligence, and Analytics.
 
-Passionate about **Data** and **continuous self-development**, I'm currently looking for projects to help on (***traineeship/ junior positions***).
+Passionate about **Data** and **continuous self-development**, I'm currently looking for projects to help on (***e.g. a junior position***).
 
 My trademarks:
 - [x] **Analytical mind**                                 
