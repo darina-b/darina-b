@@ -23,7 +23,6 @@ My trademarks:
 If your project is related to these topics, **you'll save a lot by having me in your team**.
 ## 
 ### A few projects:
-🔗 PowerBI: [Delivery Operatons in Botswana and South Africa, 2021-2022 (EDA)](https://github.com/darina-b/porto-logistics/blob/6dde9410c59b17f9bb501048e07b68c6895eaf97/README.md)
 
 🔗 PowerBI: [Car Sales in Botswana and South Africa, 2022 (EDA)](https://github.com/darina-b/porto-sales/blob/e9635e9f1adc7547dbd39683569ccecdc325fb5b/README.md)
 
