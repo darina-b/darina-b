@@ -28,6 +28,6 @@ If your project is related to these topics, **you'll save a lot by having me in 
 
 🔗 Python (Object-based, Pandas, Numpy, Sentiment analysis): [EmoDiary](https://github.com/darina-b/porto-EmoDiary/blob/d5ba76c6da561928aca42aef9663169d60b20859/README.md)
 
-🔗 Python, Pygame: [CoinEscape](https://github.com/darina-b/porto-CoinEscape/blob/a2155f6da29776774797c85aa10f24e1c97007ca/README.md)
+🔗 Python, Pygame: [CoinEscape](https://github.com/darina-b/porto-CoinEscape/blob/2881e93f5a697bc51a73f5f6fed8d1a379b957c4/README.md)
 ##
 ### Happy to connect. Drop me a line on [My LinkedIn Page](https://www.linkedin.com/in/darina-bunak-data-specialist)
