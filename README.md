@@ -26,8 +26,9 @@ If your project is related to these topics, **you'll save a lot by having me in 
 
 🔗 PowerBI: [Car Sales in Botswana and South Africa, 2022 (EDA)](https://github.com/darina-b/porto-sales/blob/7ddc34c0fcb8a99216d4e292583e78c4b262c0d4/README.md)
 
-🔗 A script-based pipeline for: cleaning web-scraped data, creating & populating a DB, generating a complex View and saving it into XL:  
-[Zillow: USAs chepest housing options in 3 major cities](https://github.com/darina-b/porto-zillow/blob/96158e8e51e50af5863ef2b6a97532dfc4c791e2/Project_presentation_Bunak_D.pdf)
+🔗 A script-based pipeline web>>.csv>>Python>>SQLite>>.xlsx: [Zillow.com. Cheapest real estate listings](https://github.com/darina-b/porto-zillow/blob/96158e8e51e50af5863ef2b6a97532dfc4c791e2/Project_presentation_Bunak_D.pdf)
+
+🔗 Statistical analysis: [California Housing: Predictive Model Analysis and Evaluation](https://github.com/darina-b/porto-california_housing/blob/e561a09f3c9badaae324226adc267b14f8d6ad87/California%20Housing_pred_mod.pdf)
 
 🔗 Python (Object-based, Pandas, Numpy, Sentiment analysis): [EmoDiary](https://github.com/darina-b/porto-EmoDiary/blob/d5ba76c6da561928aca42aef9663169d60b20859/README.md)
 
